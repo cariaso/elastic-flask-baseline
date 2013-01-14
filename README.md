@@ -22,6 +22,7 @@ Quickstart
 5. Run 'git aws.push' in the repository.
 6. Run 'eb status' in the repository, and wait for it to return 'Green' status.
 7. Browse to the URL reported by 'eb status', and be amazed at your autoscaling, crazy, cloud-based application!
+8. Fill in your Amazon keys and receive payments
 
 For More Detailed Instructions
 ------------------------------
