@@ -28,7 +28,7 @@ Quickstart
 
 History
 -------
-Largely built on top of Adam Crosby's https://github.com/adamcrosby/elastic-flask-baseline as described in his [blog post](http://blog.uptill3.com/2012/08/31/flask-elastic-beanstalk-baseline.html)!.
+Largely built on top of Adam Crosby's https://github.com/adamcrosby/elastic-flask-baseline as described in his [blog post](http://blog.uptill3.com/2012/08/31/flask-elastic-beanstalk-baseline.html).
 
 Michael Cariaso added some FPS handling.
 
